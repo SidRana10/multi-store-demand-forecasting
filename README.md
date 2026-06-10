@@ -333,26 +333,3 @@ scikit-learn==1.3.0
 ```
 
 
----
-
-## 👨‍💻 Author
-
-**M Dhanush Vardhan**
-
-- 🔗 [Kaggle Notebook](https://www.kaggle.com/code/mdhanushvardhan04/multi-series-forecasting)
-- 💼 LinkedIn: [Add your profile]
-- 📧 Email: [Add your email]
-
----
-
-## 🙏 Acknowledgments
-
-- **Dataset:** Historical sales data from retail pharmacy chain
-- **Inspiration:** Real-world demand forecasting challenges in retail operations
-- **Tools:** TensorFlow, FastAPI, Streamlit communities
-
----
-
-## ⭐ Star this repository if you found it helpful!
-
-**Keywords:** Time Series Forecasting, Deep Learning, CNN-LSTM, Retail Analytics, Inventory Management, Demand Planning, FastAPI, Streamlit, Multi-Store Forecasting, Supply Chain Optimization
