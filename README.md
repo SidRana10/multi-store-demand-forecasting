@@ -2,12 +2,6 @@
 
 
 
-> **Deep learning-powered demand forecasting for multi-store retail operations**
-
-
-👉 Training Notebook (Kaggle):
-📘 https://www.kaggle.com/code/mdhanushvardhan04/multi-series-forecasting
-
 ---
 
 ## 🎯 Business Problem
